@@ -84,3 +84,13 @@ Install both `react-icons` and `ethers`
 ```
 npm install react-icons ethers
 ```
+
+### Gradients
+
+e.g. for `.eth-card`:
+- csshero.org/mesher
+
+### Install tailwindcss forms
+```
+npm install -D @tailwindcss/forms
+```
