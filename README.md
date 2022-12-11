@@ -94,3 +94,20 @@ e.g. for `.eth-card`:
 ```
 npm install -D @tailwindcss/forms
 ```
+
+### Setup Hardhat
+
+1. Install hardhat and dependencies
+```
+npm install --save-dev hardhat
+```
+
+2. Init basic sample project
+```
+npx hardhat
+```
+
+3. Test contract
+```
+npx hardhat test
+```
