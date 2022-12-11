@@ -77,3 +77,10 @@ module.exports = {
 ```
 
 6. `npm run dev` - if text is bold and underlined, it worked!
+
+### Setting up other dependencies
+
+Install both `react-icons` and `ethers`
+```
+npm install react-icons ethers
+```
