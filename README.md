@@ -123,3 +123,8 @@ npm install dotenv --save
 ```
 
 Then in `hardhat.config.js` add at top `require('dotenv').config();`.
+
+
+### Giphy
+
+https://developers.giphy.com/
