@@ -111,3 +111,15 @@ npx hardhat
 ```
 npx hardhat test
 ```
+
+### Run Hardhat script
+```
+npx hardhat run scripts/deploy.js --network goerli
+```
+
+To use .env file, first install
+```
+npm install dotenv --save
+```
+
+Then in `hardhat.config.js` add at top `require('dotenv').config();`.
